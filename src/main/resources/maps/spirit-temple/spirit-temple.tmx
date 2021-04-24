@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="80" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="77">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16" tilecount="500" columns="20">
+  <image source="tilesets/tileset01.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="501" name="tileset2" tilewidth="16" tileheight="16" tilecount="500" columns="20">
+  <image source="tilesets/tileset02.png" width="320" height="400"/>
+ </tileset>
+ <layer id="1" name="background" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmwtKAzEQhrvs/U+hh/AQXkBYraD2oaJWPYCJNZCmecwkk5eZD37KbtNt8zHZSQtdrRiGYRiGYRiGYfrmZi4bKtbzMbWhnBPFeykv0DxUdtiiPwzs75T/5M+8Z6Xe12L8lVi/mykcF1h/2Gtgxtl6gqtPUPYPn5/Q85j1m7v+XD5y99lS/lKhrD9KWvLnq0f2F35dqj/MeSpK+7ubTx/N63H9wcfbjnv0Zzqi2L+4yFl/mPOU2PxBGOX+9yh8PP3V0lZkJ7IXeRZ5EXk1fH2I44PIp8iXyJvI+3R+/hLoGUqr/qjmeTEdo7gaxB/FPJU73d81sT8fNftH6jxt7iT3DfmT2PxREDtP3ZvN33egN1N+P6npzzdPFy53O+1a60H8hfqHzVWo9n4/H9H6XQDzrOnP7B9QXyX8KXchhzX9mf2jFX+mM5/DGH+3A6xfyvozr0HlL2b/l9o/MPjcyecWYC/K5S92/xeqQSp/PnR/CyA6VP5S97k1/aVA5S9m/2fDdDiKv1Bf2GvB0OL69a3nWGy9U3Jw9NWWwPSPXPTsT9GKP8i+Tsf2+6pkC3w9FTX9bbT3lvOVx66YsL9zL3LdqvjGtURL/lyYPluiB39YSu7/2F8aPfiT46QTqBf2FzdOMZI/aFT9QdPj/xew/ACFOq4f
+  </data>
+ </layer>
+ <objectgroup id="5" name="markers" visible="0">
+  <object id="46" name="body-hall" type="ammo" x="481.272" y="670.561" width="64" height="48"/>
+  <object id="47" name="spawner-hall" type="alien" x="494.977" y="478.913" width="32" height="32"/>
+  <object id="48" name="reactor-hall" type="off" x="607.137" y="479.391" width="79.9971" height="80"/>
+  <object id="49" name="switch-hall" x="603.183" y="546.578" width="16" height="16"/>
+  <object id="100" name="ellen" type="ripley" x="32" y="752" width="32" height="32"/>
+  <object id="50" name="smart-hall" x="640" y="352" width="32" height="32"/>
+  <object id="55" name="smart-door-hall" type="vertical" x="784" y="576" width="16" height="32"/>
+  <object id="56" name="smart-button-hall" x="768" y="640" width="16" height="16"/>
+  <object id="58" name="button-3" type="3" x="224" y="624" width="16" height="16"/>
+  <object id="59" name="button-2" type="2" x="288" y="768" width="16" height="16"/>
+  <object id="60" name="button-1" type="1" x="47.8403" y="463.2" width="16" height="16"/>
+  <object id="61" name="locker-button-secret" type="secret" x="128" y="656" width="16" height="16"/>
+  <object id="62" name="laser-hall-1" x="944" y="336" width="48" height="16"/>
+  <object id="63" name="laser-hall-2" x="944" y="288" width="48" height="16"/>
+  <object id="64" name="laser-hall-3" x="944" y="240" width="48" height="16"/>
+ </objectgroup>
+ <objectgroup id="4" name="actors">
+  <object id="10" name="terminal" type="strong doors" x="64" y="688" width="46" height="46"/>
+  <object id="11" name="strong door" type="horizontal" x="16" y="672" width="32" height="16"/>
+  <object id="12" name="strong door" type="vertical" x="160" y="720" width="16" height="32"/>
+  <object id="16" name="ammo" x="26" y="634.5" width="16" height="16"/>
+  <object id="19" name="locker" x="96" y="624" width="16" height="16"/>
+  <object id="20" name="locker" x="96" y="640" width="16" height="16"/>
+  <object id="21" name="locked door" type="vertical" x="352" y="624" width="16" height="32"/>
+  <object id="22" name="locked door" type="vertical" x="352" y="688" width="16" height="32"/>
+  <object id="23" name="terminal" type="hint" x="128" y="608" width="46" height="46"/>
+  <object id="31" name="reactor" type="broken" x="544" y="304" width="79.9971" height="80"/>
+  <object id="37" name="extinguisher" x="505.622" y="722.864" width="16" height="16"/>
+  <object id="53" name="body" type="energy" x="913.46" y="563.47" width="64" height="48"/>
+  <object id="65" name="exit door" type="vertical" x="1104" y="192" width="16" height="32"/>
+  <object id="66" name="spawner" type="lurker" x="745" y="718" width="32" height="32"/>
+  <object id="67" name="spawner" type="lurker" x="680" y="720" width="32" height="32"/>
+  <object id="69" name="wall" type="breakable" x="144" y="384" width="16" height="16"/>
+  <object id="71" name="wall breakable" x="160" y="384" width="16" height="16"/>
+  <object id="72" name="wall breakable" x="176" y="384" width="16" height="16"/>
+  <object id="73" name="rocket" x="160" y="272" width="16" height="16"/>
+  <object id="74" name="rocket" x="144" y="320" width="16" height="16"/>
+  <object id="76" name="ammo" x="208" y="336" width="16" height="16"/>
+ </objectgroup>
+</map>
